@@ -1,0 +1,25 @@
+GIT
+  remote: git@github.com:rsslldnphy/optional.git
+  revision: 6bd5d104fb26d49b19ecba97ccb4ad4d8c2db712
+  specs:
+    optional (0.0.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diff-lcs (1.2.4)
+    rspec (2.13.0)
+      rspec-core (~> 2.13.0)
+      rspec-expectations (~> 2.13.0)
+      rspec-mocks (~> 2.13.0)
+    rspec-core (2.13.1)
+    rspec-expectations (2.13.0)
+      diff-lcs (>= 1.1.3, < 2.0)
+    rspec-mocks (2.13.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  optional!
+  rspec
